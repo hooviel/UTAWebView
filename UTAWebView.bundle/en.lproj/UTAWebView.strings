@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  DoomeBrowserX
+
+  Created by xiangkai yin on 14/11/28.
+  Copyright (c) 2014年 KOTO Inc. All rights reserved.
+*/
+
+// ------------------- UIWebPage 网页相关
+quxiao = "Cancel";
+safari_dakai = "Open with Safari";
+dangqianchuangkoudakai = "Open";
+xinchuangkoudakai = "Open at new window";
+houtaidakai = "Open at background";
+fuzhilianjie = "Copy link";
+fuzhitupiandizhi = "Copy image src";
+baocuntupian = "Save image";
+tupianbaocunchenggong = "Image saved";
+lianjieyifuzhi = "Link copied";
+tupiandizhiyifuzhi = "Image src copied";
+
+reload = "Reload";
